@@ -1,0 +1,33 @@
+Epoch 1: Train Acc: 45.96%, Val Acc: 57.74%
+Epoch 2: Train Acc: 61.40%, Val Acc: 66.45%
+Epoch 3: Train Acc: 68.91%, Val Acc: 69.74%
+Epoch 4: Train Acc: 73.38%, Val Acc: 71.93%
+Epoch 5: Train Acc: 76.47%, Val Acc: 73.13%
+Epoch 6: Train Acc: 79.65%, Val Acc: 74.72%
+Epoch 7: Train Acc: 82.11%, Val Acc: 73.50%
+Epoch 8: Train Acc: 84.47%, Val Acc: 75.19%
+Epoch 9: Train Acc: 86.41%, Val Acc: 74.60%
+Epoch 10: Train Acc: 88.59%, Val Acc: 75.34%
+Epoch 11: Train Acc: 89.56%, Val Acc: 75.26%
+Epoch 12: Train Acc: 91.11%, Val Acc: 75.48%
+Epoch 13: Train Acc: 91.83%, Val Acc: 75.20%
+Epoch 14: Train Acc: 92.97%, Val Acc: 74.89%
+Epoch 15: Train Acc: 93.63%, Val Acc: 75.45%
+
+Test Accuracy: 75.39%
+              precision    recall  f1-score   support
+
+    airplane       0.79      0.81      0.80      1000
+  automobile       0.84      0.90      0.87      1000
+        bird       0.72      0.64      0.67      1000
+         cat       0.55      0.56      0.56      1000
+        deer       0.73      0.70      0.71      1000
+         dog       0.61      0.68      0.64      1000
+        frog       0.83      0.81      0.82      1000
+       horse       0.77      0.79      0.78      1000
+        ship       0.85      0.87      0.86      1000
+       truck       0.88      0.79      0.83      1000
+
+    accuracy                           0.75     10000
+   macro avg       0.76      0.75      0.75     10000
+weighted avg       0.76      0.75      0.75     10000
